@@ -39,7 +39,7 @@ Frontend :
 
 pnpm create vite . --template react-ts  (need internet)
 pnpm install   (need internet)
-pnpm add @mantine/core @mantine/hooks
+pnpm add @mantine/core @mantine/hooks @mantine/dates @mantine/schedule
 pnpm add @mantine/form
 _________
 in backend : 
